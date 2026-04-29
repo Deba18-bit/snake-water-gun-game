@@ -8,7 +8,7 @@ A command line game built in Python with score tracking.
 - Saves and displays highest score using file handling
 
 ## How to run
-python snake_water_gun.py
+python project1.py
 
 ## Concepts used
 - Functions
